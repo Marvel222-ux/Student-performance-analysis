@@ -1,10 +1,10 @@
 # Student-performance-analysis
 
 ## Tools Used
--Microsoft Excel/Metabase
--Pivot Tables
--Charts & Graphs
--Data Cleaning Techniques
+- Microsoft Excel/Metabase
+- Pivot Tables
+- Charts & Graphs
+- Data Cleaning Techniques
 
 ## Dataset Description
 The dataset contains:
